@@ -1,0 +1,58 @@
+body {
+    background-image: url("https://static.wikia.nocookie.net/boboiboy/images/2/22/Rintis_Railway_station.png/revision/latest?cb=20140512015301");
+    background-size: cover;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height: 100px;
+    
+}
+.container{
+    background: white;
+    margin: auto;
+    max-width: 50%;
+    border-radius: 10px;
+    border: 3px solid black;
+}
+
+h1 {
+    margin-top: center;
+    margin-bottom: 10px;
+    color: red;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: black;
+}
+
+button {
+    border: 3px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    margin-left: 100px;
+    margin-right: 50px;
+    
+}
+
+#increment-btn{
+    background: orange;
+}
+#save-btn{
+    background: blue;
+}
+#save-el{
+    margin-top: center;
+    padding-bottom: 50px;
+    margin-bottom: 10px;
+    color: black;
+    font-weight: bold;
+    
+}
